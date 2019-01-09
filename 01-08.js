@@ -15,6 +15,7 @@ const whileLoop = (myArr)=>{
     }
 }
 
+
 const myMap = (myArr, cb)=>{
     let arr = [];
     for (let i = 0; i< myArr.length; i++){
